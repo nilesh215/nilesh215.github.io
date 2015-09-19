@@ -3,7 +3,7 @@ layout: post
 title: Spring boot applications run as service
 ---
 
-[code]
+```
 readonly location=/home/user/project/application-name
 readonly servicename=AppNameService
 readonly port=8080
@@ -40,4 +40,4 @@ esac
 echo $"Usage: $0 {start|stop|restart}"
 
 exit
-[/code]
+```
