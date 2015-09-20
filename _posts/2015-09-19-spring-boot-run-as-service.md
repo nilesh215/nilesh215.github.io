@@ -15,11 +15,11 @@ Deploying spring boot applications can be made as easy as starting a service in 
 > 3. Make the file executable by using command chmod +x appname 
 
 
-> 4 .Now simply execute service appname start/stop/restart
+> 4. Now simply execute service appname start/stop/restart
 
 
-> Additionally we can easily add more output to verify the process executed. 
-  eg: echo "Service Restarted Successfully"
+Additionally we can easily add more output to verify the process executed. 
+eg: echo "Service Restarted Successfully"
 
 ```
 # Location of the project
@@ -72,3 +72,5 @@ echo $"Usage: $0 {start|stop|restart}"
 
 exit
 ```
+
+Simple usage of shell script can help a lot in automating the repetative process for development, devops, changing properties from staging to development. 
