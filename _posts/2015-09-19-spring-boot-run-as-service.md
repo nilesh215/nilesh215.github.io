@@ -7,9 +7,13 @@ Deploying spring boot applications can be made as easy as starting a service in 
 
 > Create a file by the name of the application in folder /etc/init.d/ 
   eg: login, email, authentication etc.(extension not required)
+
 > Copy paste this code below and make changes for location, service name and port on which your application runs
+
 > Make the file executable by using command chmod +x appname 
+
 > Now simply execute service appname start/stop/restart
+
 > Additionally we can easily add more output to verify the process executed. 
   eg: echo "Service Restarted Successfully"
 
