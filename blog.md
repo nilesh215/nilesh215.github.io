@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Blog
-permalink: /about/
+permalink: /blog/
 ---
 
 <div class="posts">
