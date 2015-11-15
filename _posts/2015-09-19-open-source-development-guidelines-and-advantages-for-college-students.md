@@ -11,6 +11,10 @@ Lets get the obvious out of way,
 * problem solving approach is more important than anything  
 * never even think you can not do it  
 * review it, ask your friends to review and get better  
+* 
+* A bulletted list
+- alternative syntax 1
++ alternative syntax 2
 
 
 
