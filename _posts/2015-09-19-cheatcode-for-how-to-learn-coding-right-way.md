@@ -1,6 +1,6 @@
 ---
 layout: post
-title: cheatcode for how to learn coding righ way
+title: cheatcode for how to learn coding right way
 ---
 
 As an engieering graduate and software developer, i always wondered what is the correct way to learn coding (like there was a manual for it :P). I found this was a question many of my peers are searching answer for themselves too. I found this very strange as why there wasnt a clear guideline for it and always felt curriculum lacked practical knowledge. Per say we search for a cheatcode we can use (like <a href="https://www.youtube.com/watch?v=IgKZ_pWYSMk">'comeflywithme'</a> from game i need not name) and be geeks of all time.  
